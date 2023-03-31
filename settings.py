@@ -2,11 +2,11 @@ class Settings:
     chrome_driver = "/tests/chromedriver.exe"
 
     base_url = 'https://b2c.passport.rt.ru'
-    valid_email = 'khmarav@yandex.ru'       # Ввести валидный email
+    valid_email = 'nikolaevna.anastasiya@mail.ru'       # Ввести валидный email
     valid_password = '@@********'   # Ввести валидный пароль
     valid_email_reg = 'Ввести валидный email'   # Ввести валидный email
-    invalid_email = 'inv.alid.com'
-    invalid_password = 'invalid123456'
+    invalid_email = 'ijfjgfx.hgv.ru'
+    invalid_password = 'nfcykuv74xx'
     empty_email = ''
     empty_password = ''
     menu_type_auth = ['Телефон', 'Почта', 'Логин', 'Лицевой счёт']
